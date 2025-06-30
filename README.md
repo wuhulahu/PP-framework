@@ -5,7 +5,7 @@
 This repository provides:
 
 - `PP_experiments.pdf` — Selected experimental results from the accepted paper. For sharing purposes only; core content such as methodology and theoretical analysis is not included.
-- `PP_ICME2025_Poster.pdf` — The official poster presented at ICME 2025.
-- `PP_supplementary_experiments.pdf` — Additional experiments, ablation studies, and visualizations to further support the proposed PP framework.
+- `PP_poster.pdf` — The official poster presented at ICME 2025.
+- `supplementary_material.pdf` — Additional experiments, ablation studies, and visualizations to further support the proposed PP framework.
 
 ⚠️ **Note**: The final IEEE-formatted version of the paper is not included here due to copyright restrictions. Once published, the official version will be available via IEEE Xplore.
