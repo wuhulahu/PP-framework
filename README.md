@@ -2,9 +2,10 @@
 
 ✅ Accepted to **ICME 2025**
 
-This repository contains:
-- `PP.pdf` — Author’s accepted version (preprint)
-- `pp_poster.pdf` — For conference presentation
-- `supplementary_material.pdf` — Supplementary Experiments the PP Framework
+This repository provides:
 
-⚠️ **Note**: The final IEEE-formatted version is not included here. Once published, the official version will be available via IEEE Xplore.
+- `PP_experiments.pdf` — Selected experimental results from the accepted paper. For sharing purposes only; core content such as methodology and theoretical analysis is not included.
+- `PP_ICME2025_Poster.pdf` — The official poster presented at ICME 2025.
+- `PP_supplementary_experiments.pdf` — Additional experiments, ablation studies, and visualizations to further support the proposed PP framework.
+
+⚠️ **Note**: The final IEEE-formatted version of the paper is not included here due to copyright restrictions. Once published, the official version will be available via IEEE Xplore.
